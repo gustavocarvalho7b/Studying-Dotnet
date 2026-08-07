@@ -30,3 +30,4 @@
 /home/pink/projetos/teste/backend/MinhaApi/obj/Debug/net8.0/MinhaApi.pdb
 /home/pink/projetos/teste/backend/MinhaApi/obj/Debug/net8.0/MinhaApi.genruntimeconfig.cache
 /home/pink/projetos/teste/backend/MinhaApi/obj/Debug/net8.0/ref/MinhaApi.dll
+/home/pink/projetos/teste/backend/MinhaApi/obj/Debug/net8.0/MinhaApi.sourcelink.json
